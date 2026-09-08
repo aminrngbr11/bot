@@ -21,7 +21,7 @@ try {
 }
 $APIKEY = '8942433541:AAG_lvWnQkj_9S5WWM4fKU8TXmcDZjbZq4E';
 $adminnumber = '8782675695';
-$domainhosts = '{domain_name}';
+$domainhosts = 'bot-production-0a7d.up.railway.app';
 $usernamebot = '@MobinaVpnShopBot';
 
 ?>
