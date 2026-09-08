@@ -19,9 +19,9 @@ try {
     error_log("Database connection failed: " . $e->getMessage());
     die("error: database connection failed");
 }
-$APIKEY = '{API_KEY}';
-$adminnumber = '{admin_number}';
+$APIKEY = '8942433541:AAG_lvWnQkj_9S5WWM4fKU8TXmcDZjbZq4E';
+$adminnumber = '8782675695';
 $domainhosts = '{domain_name}';
-$usernamebot = '{username_bot}';
+$usernamebot = '@MobinaVpnShopBot';
 
 ?>
