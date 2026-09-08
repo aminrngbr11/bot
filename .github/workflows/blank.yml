@@ -16,11 +16,7 @@ jobs:
 
       - name: Extract ZIP
         run: |
-          unzip -o "mbot.zip" -d .
-
-      - name: Remove ZIP file
-        run: |
-          rm "your-file.zip"
+          unzip -o "./mbot.zip" -d ./
 
       - name: Commit extracted files
         run: |
